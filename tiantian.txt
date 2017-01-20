@@ -1,4 +1,1 @@
 good good study day day up
-test git diff HEAD -- tiantian.txt
-test git status
-test git reset --hard HEAD^
